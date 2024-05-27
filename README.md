@@ -34,7 +34,15 @@
 * Seaborn
 * Tqdm
 
-## Figures
+## <a name="Figure"></a> Figure
+1. Vaihingen
+
+![Image](figure/vaihingen.png)
+
+2. Toronto
+
+![Image](figure/toronto.png)
+
 
 
 ## <a name="tip"></a> Notes
