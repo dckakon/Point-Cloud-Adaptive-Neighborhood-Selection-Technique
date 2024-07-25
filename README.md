@@ -46,4 +46,18 @@
 
 
 ## <a name="tip"></a> Notes
+Paper Link - https://doi.org/10.1371/journal.pone.0307138
+For Citation(Bibtex)
+
+@article{chakraborty2024segmentation,
+  title={Segmentation of LiDAR point cloud data in urban areas using adaptive neighborhood selection technique},
+  author={Chakraborty, Debobrata and Dey, Emon Kumar},
+  journal={PloS one},
+  volume={19},
+  number={7},
+  pages={e0307138},
+  year={2024},
+  publisher={Public Library of Science San Francisco, CA USA}
+}
+
 For the complete code and additional analysis suggestions, please reach out to the author at msse1729@iit.du.ac.bd.
