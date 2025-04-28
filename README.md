@@ -1,4 +1,5 @@
 # Segmentation of LiDAR Point Cloud Data in Urban Areas using Adaptive Neighborhood 
+This research proposes a suitable adaptive neighborhood selection approach for individual points by completely considering the complex and heterogeneous nature of the input LiDAR point cloud data.
 
 ## <a name="code"></a> Dataset
 
